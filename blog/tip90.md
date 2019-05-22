@@ -6,13 +6,16 @@ tags: [azure, windows, portal, cloud, developers, tipsandtricks]
 date: 2018-02-03 17:00:00
 ---
 
+::: tip
+:bulb: Learn more : [SQL Server on Azure Virtual Machines](https://docs.microsoft.com/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview?WT.mc_id=docs-azuredevtips-micrum).
+:::
 
 #### Implementing Azure Search with SQL Server and ASP.NET MVC
 
 Welcome to a new series, in this series I'll cover Azure Search, SQL Server and putting it all together in a ASP.NET MVC web app. I'll be adding the post to this series below as I go:
 
-* [Part 1](https://microsoft.github.io/AzureTipsAndTricks/blog/tip90.html?WT.mc_id=github-azuredevtips-micrum)
-* [This post - Part 2](https://microsoft.github.io/AzureTipsAndTricks/blog/tip91.html?WT.mc_id=github-azuredevtips-micrum)
+* [Part 1](tip90.html)
+* [This post - Part 2](tip91.html)
 
 #### What is it? 
 
@@ -33,7 +36,7 @@ Your screen should look like the following:
 
 #### Take a look at the data
 
-Now that we have a sample database and it has deployed, let's use **Query Editor** which is inside the SQL Server blade to take a look at the table structure. Note: You can also use [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?WT.mc_id=docs-azuredevtips-micrum) if you prefer it better. 
+Now that we have a sample database and it has deployed, let's use **Query Editor** which is inside the SQL Server blade to take a look at the table structure. Note: You can also use [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms?WT.mc_id=docs-azuredevtips-micrum) if you prefer it better. 
 
 If you click on **Query Editor** and login as instructed, then you'll see the following:
 
