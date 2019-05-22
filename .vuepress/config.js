@@ -32,7 +32,7 @@ module.exports = {
 			{
 				title: 'Recently Added',
 				collapsable: true,
-				children: ['/blog/tip195','/blog/tip194','/blog/tip193', '/blog/tip192', '/blog/tip191', '/blog/tip190']
+				children: ['/blog/tip198', '/blog/tip197', '/blog/tip196', '/blog/tip195','/blog/tip194','/blog/tip193', '/blog/tip192', '/blog/tip191', '/blog/tip190']
 			},
 			{
 				title: 'App Service',
@@ -41,6 +41,11 @@ module.exports = {
 					'/blog/tip101', '/blog/tip102', '/blog/tip103', '/blog/tip104', '/blog/tip105', '/blog/tip107', '/blog/tip108', '/blog/tip109', '/blog/tip110',
 					'/blog/tip112', '/blog/tip113', '/blog/tip117', '/blog/tip119', '/blog/tip132', '/blog/tip143',
 					'/blog/tip144', '/blog/tip149', '/blog/tip184']
+			},
+			{
+				title: 'APIM',
+				collapsable: true,
+				children: ['/blog/tip197']
 			},
 			{
 				title: 'Authentication',
@@ -91,7 +96,7 @@ module.exports = {
 			{
 				title: 'Functions',
 				collapsable: true,
-				children: ['/blog/tip35', '/blog/tip36', '/blog/tip50', '/blog/tip51', '/blog/tip52', '/blog/tip61', '/blog/tip62', '/blog/tip63', '/blog/tip64', '/blog/tip94', '/blog/tip97', '/blog/tip98', '/blog/tip99', '/blog/tip100', '/blog/tip130', '/blog/tip133', '/blog/tip134', '/blog/tip135', '/blog/tip136', '/blog/tip147', '/blog/tip148', '/blog/tip157', '/blog/tip158', '/blog/tip161']
+				children: ['/blog/tip196','/blog/tip35', '/blog/tip36', '/blog/tip50', '/blog/tip51', '/blog/tip52', '/blog/tip61', '/blog/tip62', '/blog/tip63', '/blog/tip64', '/blog/tip94', '/blog/tip97', '/blog/tip98', '/blog/tip99', '/blog/tip100', '/blog/tip130', '/blog/tip133', '/blog/tip134', '/blog/tip135', '/blog/tip136', '/blog/tip147', '/blog/tip148', '/blog/tip157', '/blog/tip158', '/blog/tip161']
 			},
 			{
 				title: 'HD Insight',
@@ -142,7 +147,7 @@ module.exports = {
 			{
 				title: 'PowerShell',
 				collapsable: true,
-				children: ['/blog/tip194', '/blog/tip24', '/blog/tip120', '/blog/tip137']
+				children: ['/blog/tip198', '/blog/tip194', '/blog/tip24', '/blog/tip120', '/blog/tip137']
 			},
 			{
 				title: 'Productivity',

@@ -6,6 +6,9 @@ tags: [azure, windows, portal, cloud, developers, tipsandtricks]
 date: 2017-10-11 17:00:00
 ---
 
+::: tip
+:bulb: Learn more : [App Service Documentation](https://docs.microsoft.com/azure/app-service?WT.mc_id=docs-azuredevtips-micrum).
+:::
 
 #### Using Application Insights with Azure App Service
 
@@ -46,5 +49,5 @@ You can even drill down on what URL was called to trigger the error.
 
 <img :src="$withBase('/files/appinsight6.png')">
 
-If you add Application Insights to your Visual Studio project by right-clicking the project and then adding **Configure Application Insights**, then you can add code to collect exception telemetry. You can learn more about that by [clicking here](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-asp-net-exceptions?WT.mc_id=docs-azuredevtips-micrum). 
+If you add Application Insights to your Visual Studio project by right-clicking the project and then adding **Configure Application Insights**, then you can add code to collect exception telemetry. You can learn more about that by [clicking here](https://docs.microsoft.com/azure/application-insights/app-insights-asp-net-exceptions?WT.mc_id=docs-azuredevtips-micrum). 
 
