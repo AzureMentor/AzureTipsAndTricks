@@ -32,7 +32,7 @@ module.exports = {
 			{
 				title: 'Recently Added',
 				collapsable: true,
-				children: ['/blog/tip203','/blog/tip202','/blog/tip201', '/blog/tip200', '/blog/tip199', '/blog/tip198', '/blog/tip197', '/blog/tip196', '/blog/tip195','/blog/tip194','/blog/tip193', '/blog/tip192', '/blog/tip191', '/blog/tip190']
+				children: ['/blog/tip207', '/blog/tip206','/blog/tip205','/blog/tip204','/blog/tip203','/blog/tip202','/blog/tip201', '/blog/tip200', '/blog/tip199', '/blog/tip198', '/blog/tip197', '/blog/tip196', '/blog/tip195','/blog/tip194','/blog/tip193', '/blog/tip192', '/blog/tip191', '/blog/tip190']
 			},
 			{
 				title: 'App Service',
@@ -86,12 +86,12 @@ module.exports = {
 			{
 				title: 'Cosmos DB',
 				collapsable: true,
-				children: ['/blog/tip185', '/blog/tip65', '/blog/tip66', '/blog/tip67', '/blog/tip68', '/blog/tip152', '/blog/tip166', '/blog/tip167']
+				children: ['/blog/tip204','/blog/tip185', '/blog/tip65', '/blog/tip66', '/blog/tip67', '/blog/tip68', '/blog/tip152', '/blog/tip166', '/blog/tip167']
 			},
 			{
 				title: 'DevOps',
 				collapsable: true,
-				children: ['/blog/tip168', '/blog/tip169']
+				children: ['/blog/tip206','/blog/tip168', '/blog/tip169']
 			},
 			{
 				title: 'Front Door',
@@ -142,7 +142,7 @@ module.exports = {
 			{
 				title: 'Monitor',
 				collapsable: true,
-				children: ['/blog/tip195']
+				children: ['/blog/tip205','/blog/tip195']
 			},
 			{
 				title: 'Portal',
@@ -192,7 +192,7 @@ module.exports = {
 			{
 				title: 'Virtual Machines',
 				collapsable: true,
-				children: ['/blog/tip201', '/blog/tip191', '/blog/tip9', '/blog/tip10', '/blog/tip12', '/blog/tip53']
+				children: ['/blog/tip207','/blog/tip201', '/blog/tip191', '/blog/tip9', '/blog/tip10', '/blog/tip12', '/blog/tip53']
 			},
 			{
 				title: 'VNET',
