@@ -32,12 +32,12 @@ module.exports = {
 			{
 				title: 'Recently Added',
 				collapsable: false,
-				children: ['/blog/tip211','/blog/tip210','/blog/tip209','/blog/tip208','/blog/tip207', '/blog/tip206','/blog/tip205','/blog/tip204','/blog/tip203','/blog/tip202','/blog/tip201', '/blog/tip200', '/blog/tip199', '/blog/tip198', '/blog/tip197', '/blog/tip196', '/blog/tip195','/blog/tip194','/blog/tip193', '/blog/tip192', '/blog/tip191', '/blog/tip190']
+				children: ['/blog/tip216','/blog/tip215','/blog/tip214','/blog/tip213','/blog/tip212','/blog/tip211','/blog/tip210','/blog/tip209','/blog/tip208','/blog/tip207', '/blog/tip206','/blog/tip205','/blog/tip204','/blog/tip203','/blog/tip202','/blog/tip201']
 			},
 			{
 				title: 'App Service',
 				collapsable: true,
-				children: ['/blog/tip208','/blog/tip16', '/blog/tip20', '/blog/tip21', '/blog/tip22', '/blog/tip23', '/blog/tip26', '/blog/tip27', '/blog/tip28', '/blog/tip29', '/blog/tip30', '/blog/tip31', '/blog/tip32', '/blog/tip33',
+				children: ['/blog/tip216','/blog/tip208','/blog/tip16', '/blog/tip20', '/blog/tip21', '/blog/tip22', '/blog/tip23', '/blog/tip26', '/blog/tip27', '/blog/tip28', '/blog/tip29', '/blog/tip30', '/blog/tip31', '/blog/tip32', '/blog/tip33',
 					'/blog/tip101', '/blog/tip102', '/blog/tip103', '/blog/tip104', '/blog/tip105', '/blog/tip107', '/blog/tip108', '/blog/tip109', '/blog/tip110',
 					'/blog/tip112', '/blog/tip113', '/blog/tip117', '/blog/tip119', '/blog/tip132', '/blog/tip143',
 					'/blog/tip144', '/blog/tip149', '/blog/tip184']
@@ -162,7 +162,7 @@ module.exports = {
 			{
 				title: 'Productivity',
 				collapsable: true,
-				children: ['/blog/tip18', '/blog/tip25', '/blog/tip115', '/blog/tip128', '/blog/tip150', '/blog/tip153', '/blog/tip155', '/blog/tip162', '/blog/tip163', '/blog/tip164', '/blog/tip173', '/blog/tip176', '/blog/tip177', '/blog/tip183']
+				children: ['/blog/tip215','/blog/tip214','/blog/tip213','/blog/tip18', '/blog/tip25', '/blog/tip115', '/blog/tip128', '/blog/tip150', '/blog/tip153', '/blog/tip155', '/blog/tip162', '/blog/tip163', '/blog/tip164', '/blog/tip173', '/blog/tip176', '/blog/tip177', '/blog/tip183']
 			},
 			{
 				title: 'SAP',
@@ -192,7 +192,7 @@ module.exports = {
 			{
 				title: 'Storage',
 				collapsable: true,
-				children: ['/blog/tip74', '/blog/tip75', '/blog/tip76', '/blog/tip77', '/blog/tip78', '/blog/tip79', '/blog/tip80', '/blog/tip82', '/blog/tip83', '/blog/tip84', '/blog/tip85', '/blog/tip86', '/blog/tip87', '/blog/tip88', '/blog/tip89', '/blog/tip95', '/blog/tip138', '/blog/tip141']
+				children: ['/blog/tip212','/blog/tip74', '/blog/tip75', '/blog/tip76', '/blog/tip77', '/blog/tip78', '/blog/tip79', '/blog/tip80', '/blog/tip82', '/blog/tip83', '/blog/tip84', '/blog/tip85', '/blog/tip86', '/blog/tip87', '/blog/tip88', '/blog/tip89', '/blog/tip95', '/blog/tip138', '/blog/tip141']
 			},
 			{
 				title: 'Virtual Machines',
