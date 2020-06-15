@@ -32,12 +32,12 @@ module.exports = {
 			{
 				title: 'Recently Added',
 				collapsable: false,
-children: ['/blog/tip258','/blog/tip257','/blog/tip256','/blog/tip255','/blog/tip254','/blog/tip253','/blog/tip252','/blog/tip251','/blog/tip250','/blog/tip249','/blog/tip248','/blog/tip247','/blog/tip246','/blog/tip245','/blog/tip244']
+children: ['/blog/tip267','/blog/tip266','/blog/tip265','/blog/tip264','/blog/tip262']
 			},
 			{
 				title: '.NET',
 				collapsable: true,
-				children: ['/blog/tip228','/blog/tip113','/blog/tip144','/blog/tip54', '/blog/tip55', '/blog/tip56', '/blog/tip68']
+				children: ['/blog/tip259','/blog/tip228','/blog/tip113','/blog/tip144','/blog/tip54', '/blog/tip55', '/blog/tip56', '/blog/tip68']
 			},	
 			{
 				title: 'Active Directory',
@@ -161,7 +161,7 @@ children: ['/blog/tip258','/blog/tip257','/blog/tip256','/blog/tip255','/blog/ti
 			{
 				title: 'Functions',
 				collapsable: true,
-				children: ['/blog/tip247','/blog/tip211','/blog/tip196','/blog/tip35', '/blog/tip36', '/blog/tip50', '/blog/tip51', '/blog/tip52', '/blog/tip61', '/blog/tip62', '/blog/tip63', '/blog/tip64', '/blog/tip94', '/blog/tip97', '/blog/tip98', '/blog/tip99', '/blog/tip100', '/blog/tip130', '/blog/tip133', '/blog/tip134', '/blog/tip135', '/blog/tip136', '/blog/tip147', '/blog/tip148', '/blog/tip157', '/blog/tip158', '/blog/tip161','/blog/tip125','/blog/tip174', '/blog/tip175']
+				children: ['/blog/tip260','/blog/tip247','/blog/tip211','/blog/tip196','/blog/tip35', '/blog/tip36', '/blog/tip50', '/blog/tip51', '/blog/tip52', '/blog/tip61', '/blog/tip62', '/blog/tip63', '/blog/tip64', '/blog/tip94', '/blog/tip97', '/blog/tip98', '/blog/tip99', '/blog/tip100', '/blog/tip130', '/blog/tip133', '/blog/tip134', '/blog/tip135', '/blog/tip136', '/blog/tip147', '/blog/tip148', '/blog/tip157', '/blog/tip158', '/blog/tip161','/blog/tip125','/blog/tip174', '/blog/tip175']
 			},
 			{
 				title: 'GitHub',
@@ -189,6 +189,11 @@ children: ['/blog/tip258','/blog/tip257','/blog/tip256','/blog/tip255','/blog/ti
 				children: ['/blog/tip96', '/blog/tip114', '/blog/tip122', '/blog/tip123', '/blog/tip124', '/blog/tip125', '/blog/tip126']
 			},
 			{
+				title: 'Java',
+				collapsable: true,
+				children: ['/blog/tip264']
+			},
+			{
 				title: 'JavaScript',
 				collapsable: true,
 				children: ['/blog/tip227','/blog/tip204']
@@ -201,7 +206,7 @@ children: ['/blog/tip258','/blog/tip257','/blog/tip256','/blog/tip255','/blog/ti
 			{
 				title: 'Kubernetes',
 				collapsable: true,
-				children: ['/blog/tip245','/blog/tip234','/blog/tip230','/blog/tip229','/blog/tip228','/blog/tip168','/blog/tip169']
+				children: ['/blog/tip261','/blog/tip245','/blog/tip234','/blog/tip230','/blog/tip229','/blog/tip228','/blog/tip168','/blog/tip169']
 			},
 			{
 				title: 'Lab Services',
